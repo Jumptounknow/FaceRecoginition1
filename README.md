@@ -1,8 +1,8 @@
 # FaceRecoginition1
 Face Recognition :  
 
-# FaceNet:   1.Train (1)CAISA (Softmax)
-# -------------------(2)VGG
+# FaceNet:   1.Train *CAISA (Softmax)
+#                    *(2)VGG
 # -------------------(3)FLW
 #            2.Validate
 #            3.512 Feature points reduce to 128 Feature points
