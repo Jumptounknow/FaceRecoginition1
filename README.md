@@ -2,8 +2,8 @@
 Face Recognition :  
 
 # FaceNet:   1.Train (1)CAISA (Softmax)
-#                    (2)VGG
-#                    (3)FLW
+# -------------------(2)VGG
+# -------------------(3)FLW
 #            2.Validate
 #            3.512 Feature points reduce to 128 Feature points
 # 
@@ -20,8 +20,8 @@ Face Recognition :
 #            3.Q SDK
 #            4.MTCNN fine tune by preview
 #            5.Paper Study(1)MTCNN
-#                         (2)FaceNet 1.2D Align
-#                                    2.3D Align
+#                         (2)FaceNet 
+#                                   
 #            6.Slide (PPT)                         
 #
 
