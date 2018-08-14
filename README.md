@@ -2,12 +2,12 @@
 Face Recognition :  
 
 # FaceNet:
-###1.Train 
-*CAISA (Softmax)
-*VGG
-*FLW
-###2.Validate
-###3.512 Feature points reduce to 128 Feature points
+## 1.Train 
+* CAISA (Softmax)
+* VGG
+* FLW
+## 2.Validate
+## 3.512 Feature points reduce to 128 Feature points
 
 
 # Detection: 1.Android camera API
