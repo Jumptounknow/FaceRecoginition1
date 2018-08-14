@@ -25,7 +25,7 @@ Face Recognition :
 ## 3.Q SDK
 ## 4.MTCNN fine tune by preview
 ## 5.Paper Study
-* (1)MTCNN
-* (2)FaceNet 
+* MTCNN
+* FaceNet 
 ## 6.Slide (PPT) 
 
